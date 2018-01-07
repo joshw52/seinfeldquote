@@ -61,7 +61,7 @@ h1 {
   float: right;
 }
 
-#newQuote:hover {
+#newQuote:hover, #twt:hover {
   background-color: #2D2C35;
   color: #FFFFFF;
 }
